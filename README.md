@@ -1,4 +1,4 @@
-Адаптивная вёрстка макета "Евклид. Проектные системы" с использованием HTML5, CSS3, JavaScript.
+Адаптивная кроссбраузерная вёрстка макета "Евклид. Проектные системы" с использованием HTML5, CSS3, JavaScript.
 
 – Pixel Perfect; <br>
 – Использование технологии Flexbox; <br>
@@ -10,3 +10,4 @@
  
 GH Pages: https://inovosyolov.github.io/euclid/
 
+![image](https://github.com/inovosyolov/euclid/assets/118193601/2d7cafb1-7156-4794-a80a-97a21faae786)
